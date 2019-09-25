@@ -1,0 +1,66 @@
+/* Mobile Device */
+@media (min-width: 320px) and (max-width: 576px) {
+    html {
+        font-size: 85%;
+    }
+
+    .mac-container img {
+        position: relative;
+        transform: scale(1);
+    }
+
+    .invite-responsive {
+        text-align: center;
+    }
+
+    .invite-responsive a {
+        margin-top: 2rem;
+    }
+
+    .align-responsive {
+        text-align: center;
+    }
+
+    .align-responsive span,
+    span.underline {
+        margin: 0 auto;
+    }
+
+
+
+}
+
+/* iPad & tab */
+@media (min-width: 577px) and (max-width: 1140px) {
+    html {
+        font-size: 95%;
+    }
+
+    .mac-container img {
+        position: relative;
+        transform: scale(1);
+    }
+
+
+    .invite-responsive {
+        text-align: center;
+    }
+
+    .invite-responsive a {
+        margin-top: 2rem;
+    }
+
+    .align-responsive {
+        text-align: center;
+    }
+
+    .align-responsive span,
+    span.underline {
+        margin: 0 auto;
+    }
+
+
+
+
+
+}
